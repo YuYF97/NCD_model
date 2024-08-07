@@ -1,0 +1,7 @@
+Gender	Neurocognitive Disorder	Age	CVD	Stroke	Infarction	Head injury	Other CVD	Hypertension	Other degenerative diseases of the nervous system	Affective disorder	Torso injury	Paroxysmal diseases	Multiple body part injuries	CHD	Movement disorders	Metabolic disorder	Chest injury	Diabetes	Other types of heart disease	Other disorders of the nervous system	Other diseases of the respiratory system	Parkinson disease	Arrhythmia	Dementia	Abdominal injury	Seizures	Diseases of the urinary system	Male genital diseases	Influenza	Bleeding	Heart failure
+1	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	6	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1	0	3	1	0	0	0	1	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1
